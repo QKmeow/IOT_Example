@@ -15,8 +15,8 @@
 #define soilPin 11
 
 //設定 wifi 參數
-char ssid[] = "GG88"; //  your network SSID (name)
-char pass[] = "a27135196";    // your network password (use for WPA, or use as key for WEP)
+char ssid[] = "network"; //  your network SSID (name)
+char pass[] = "password";    // your network password (use for WPA, or use as key for WEP)
 int status = WL_IDLE_STATUS;
 
 //設定 MQTT 參數
